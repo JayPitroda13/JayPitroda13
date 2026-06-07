@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Jayesh Pitroda 👋
 
-<!--
-**JayPitroda13/JayPitroda13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. Information Technology Student (University of Mumbai)
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Learning AI Engineering & Generative AI
+
+🚀 Currently building CityFix – a smart platform focused on waste management, environmental reporting, and community engagement.
+
+## About Me
+
+- 📍 Mumbai, India
+- 🎯 Interested in Software Development, AI, and Full-Stack Development
+- 🌱 Currently learning Git, GitHub, React, Node.js, AI Engineering, and Generative AI
+- 💼 Completed a 3-month Web Development Internship at Wipro
+- 📚 CGPI: 9.5+
+
+## Tech Stack
+
+### Languages
+- HTML
+- CSS
+- JavaScript
+- Python
+- C
+- C++
+- SQL
+
+### Technologies
+- MongoDB
+- React (Learning)
+- Node.js (Learning)
+- Git (Learning)
+- GitHub
+
+## Featured Project
+
+### CityFix
+A platform designed to improve waste management and environmental issue reporting through technology-driven community participation.
+
+## Goals for 2026
+
+- Build CityFix successfully
+- Master Full-Stack Development
+- Learn AI Engineering & Generative AI
+- Create a strong project portfolio
+- Prepare for Master's studies in Australia
+
+---
+⭐ Always learning, building, and improving.
